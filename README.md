@@ -1,1 +1,1 @@
-# Post what I've learned today.
+# Post what I learned today.
