@@ -1,5 +1,5 @@
 ## What are the Design Fundamentals?
----
+
 ### 1.Color & Contrast
 * Make sure to take color contrast enough to tell one element from the others
 
